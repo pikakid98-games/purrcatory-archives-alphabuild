@@ -4,7 +4,7 @@ The version that was build off of the original demo intended to be the final gam
 
 ## Where can I download this?
 
-Prebuild binaries are available [Here](https://github.com/Git-Pikakid98/purrcatory-archives/releases)
+Prebuilt binaries are available [Here](https://github.com/Git-Pikakid98/purrcatory-archives/releases)
 
 ### <b><u>Building requirements</b></u>
 
