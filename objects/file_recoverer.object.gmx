@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>action_sound(3, 0)
-</sound>
+            <sound>Absolute_Error</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -36,6 +35,26 @@
       </action>
     </event>
     <event eventtype="9" enumb="13">
+      <action>
+        <libid>1</libid>
+        <id>212</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_end_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>Absolute_Error</sound>
+          </argument>
+        </arguments>
+      </action>
       <action>
         <libid>1</libid>
         <id>222</id>

@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>PurrCatory [SaveFile]</string>
+            <string>PurrCatory_SaveFile</string>
           </argument>
         </arguments>
       </action>

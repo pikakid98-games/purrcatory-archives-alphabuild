@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>YOU DESTROYED MY WORLD!!</string>
+            <string>YOU_DESTROYED_MY_WORLD!!</string>
           </argument>
         </arguments>
       </action>
