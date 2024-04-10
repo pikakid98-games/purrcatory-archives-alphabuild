@@ -41,8 +41,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>action_sound(4, 0)
-</sound>
+            <sound>PSI_V4_0</sound>
           </argument>
           <argument>
             <kind>3</kind>

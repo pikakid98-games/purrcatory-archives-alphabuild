@@ -97,8 +97,7 @@ y += vsp
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>action_message("ERROR")
-</string>
+            <string>ERROR</string>
           </argument>
         </arguments>
       </action>
@@ -120,7 +119,7 @@ y += vsp
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>-100</sprite>
+            <sprite>mittens_2_right_moving</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -128,7 +127,7 @@ y += vsp
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
@@ -150,7 +149,7 @@ y += vsp
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>-100</sprite>
+            <sprite>mittens_2_left_moving</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -180,8 +179,7 @@ y += vsp
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(147, 0, 1)
-</sprite>
+            <sprite>mittens_2_right_stopped</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -211,8 +209,7 @@ y += vsp
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>action_sprite_set(148, 0, 1)
-</sprite>
+            <sprite>mittens_2_left_stopped</sprite>
           </argument>
           <argument>
             <kind>0</kind>

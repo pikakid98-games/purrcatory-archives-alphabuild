@@ -25,12 +25,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>action_move("000100000", 12)
-</string>
+            <string>000100000</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>7</string>
           </argument>
         </arguments>
       </action>
@@ -52,9 +51,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>action_another_room(1)
-action_end_sound(3)
-</room>
+            <room>kitty_1</room>
           </argument>
         </arguments>
       </action>

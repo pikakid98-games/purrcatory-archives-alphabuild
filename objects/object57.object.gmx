@@ -25,8 +25,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>action_sound(-1, 0)
-</sound>
+            <sound>-100</sound>
           </argument>
           <argument>
             <kind>3</kind>

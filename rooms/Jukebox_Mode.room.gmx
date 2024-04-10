@@ -55,6 +55,7 @@
     <instance objName="Forest_Of_Dreams_off" x="96" y="64" name="inst_18DFA" locked="0" code="" scaleX="1.18918895721436" scaleY="1.52381002902985" colour="4294967295" rotation="0"/>
     <instance objName="Glitch_In_The_Code_off" x="512" y="160" name="inst_18DFB" locked="0" code="" scaleX="1.18918895721436" scaleY="1.52381002902985" colour="4294967295" rotation="0"/>
     <instance objName="THOGAT_off" x="512" y="64" name="inst_18DFC" locked="0" code="" scaleX="1.18518495559692" scaleY="1.56097602844238" colour="4294967295" rotation="0"/>
+    <instance objName="object86" x="992" y="768" name="inst_C5D28C3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

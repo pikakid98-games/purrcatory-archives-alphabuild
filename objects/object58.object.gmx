@@ -41,12 +41,11 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>action_sound(0, 1)
-</sound>
+            <sound>Pikakid98_Forest_of_Dreams_PurrCatory_OST</sound>
           </argument>
           <argument>
             <kind>3</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
