@@ -26,8 +26,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>url_open("http://gamejolt.com/profile/pikakid98/674859")
-</string>
+            <string>http://gamejolt.com/profile/pikakid98/674859</string>
           </argument>
         </arguments>
       </action>

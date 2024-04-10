@@ -26,8 +26,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>url_open("https://www.facebook.com/Pikakid98")
-</string>
+            <string>https://www.facebook.com/Pikakid98</string>
           </argument>
         </arguments>
       </action>
