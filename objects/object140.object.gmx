@@ -41,12 +41,11 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>action_sound(1, 1)
-</sound>
+            <sound>Pikakid98___THOGAT</sound>
           </argument>
           <argument>
             <kind>3</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
